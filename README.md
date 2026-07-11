@@ -132,5 +132,6 @@ See `templates/progress-tracker.md` for a ready-to-copy table.
 ## Philosophy Reminder
 
 This roadmap will never ask you to pay for anything. If a phase ever suggests a resource that requires a credit card or hidden paywall, that's a bug — open an issue.
-
 **Status:** Phase 0 complete and below. Phases 1–49 are released incrementally.
+
+[Phase 0 Mindset Learning System →](../phase-00-mindset-learning-system.md)
