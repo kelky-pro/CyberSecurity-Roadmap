@@ -19,7 +19,7 @@
 
 | Phase | Status | % | Hours | Labs | Projects | Commits | Skills Earned |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|---|
-| 0 — Mindset & Learning System | 🟡 Not Started | 0% | 0 | 0/5 | 0/1 | 0 | — |
+| 0 — Mindset & Learning System | ✅ Complete | 100% | 0 | 5/5 | 1/1 | 0 | — |
 | 1 — Computer Fundamentals | ⬜ Not Started | 0% | 0 | 0/? | 0/? | 0 | — |
 | 2 — Operating Systems | ⬜ | 0% | 0 | 0/? | 0/? | 0 | — |
 | ... | | | | | | | |
